@@ -46,6 +46,7 @@ table "songs"
   integer  "genre_id"
 ```
 
+
 ## Key notes to remember
 
 * You will need to use [strong params](https://github.com/learn-co-curriculum/strong-params-basics)
